@@ -1,8 +1,8 @@
 
 #include <optix_world.h>
 #include <iostream>
-#include "OpenImageIO\imageio.h"
-#include "OpenImageIO\imagebuf.h"
+#include <OpenImageIO/imageio.h>
+#include <OpenImageIO/imagebuf.h>
 #include <stdio.h>
 #include <exception>
 
