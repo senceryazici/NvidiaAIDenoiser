@@ -1,11 +1,13 @@
 # NVidia AI Denoiser command line tool
 
 
-##linux ubuntu 
+## linux ubuntu 
 
-Release Highlights NVIDIA® OptiX™ 6.0.0
+* Release Highlights NVIDIA® OptiX™ 6.0.0
 
-add NVIDIA® OptiX™ to LD_LIBRARY_PATH
+* sudo apt-get install libopenimageio-dev
+
+* add NVIDIA® OptiX™ to LD_LIBRARY_PATH
 export LD_LIBRARY_PATH=/xxx/yyy/NVIDIA-OptiX-SDK-6.0.0-linux64/lib64:$LD_LIBRARY_PATH
 ##update blender python addon
 update exe to linux add 
